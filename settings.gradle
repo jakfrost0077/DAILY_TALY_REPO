@@ -1,0 +1,2 @@
+rootProject.name='DAILY_TALLY_PRO'
+include ':app'
